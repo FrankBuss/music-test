@@ -1,0 +1,8 @@
+[package]
+name = "elevated-synth"
+version = "0.1.0"
+edition = "2021"
+description = "Rust port of the Elevated 4k intro synthesizer by TBC and RGBA (Breakpoint 2009)"
+
+[dependencies]
+cpal = "0.15"
